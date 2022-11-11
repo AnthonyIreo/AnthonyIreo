@@ -1,7 +1,9 @@
-### Hi there 👋
 
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: <p>hi</p>
+Hi 👋
+
+- 🌱 I’m currently learning node.js and react.
+- 📫 How to reach me: www.linkedin.com/in/baosheng-zheng-392438231
+
 
 <!--
 **AnthonyIreo/AnthonyIreo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
