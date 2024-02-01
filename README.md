@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bao</h1>
+<h1 align="center">Hi 👋, I'm BaoSheng</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working on [DeepFake o meter](https://zinc.cse.buffalo.edu/ubmdfl/deep-o-meter/)
